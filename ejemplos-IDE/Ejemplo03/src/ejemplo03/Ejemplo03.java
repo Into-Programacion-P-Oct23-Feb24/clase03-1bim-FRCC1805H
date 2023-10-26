@@ -15,23 +15,14 @@ public class Ejemplo03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Tipos de dato en Java
+        // Para crear un comentario debe estar con dobloe slhas y un espacio 
         
         // Tipos de dato en Java
 
         // Tipo de datos Entero
         
         /*
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
-        q
+        para crear un comentario multiple se le realiza lo siguente con un asterisco en la parte de afuera y un slhas y para cerrar este comentario el asterisco en la parte de afuera el slhas 
         */
         int variable1;
         int variable2 = 10;
