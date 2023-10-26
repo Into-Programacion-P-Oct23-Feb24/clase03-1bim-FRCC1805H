@@ -16,14 +16,12 @@ public class Ejemplo03 {
      */
     public static void main(String[] args) {
         // Para crear un comentario debe estar con dobloe slhas y un espacio 
-        
-        // Tipos de dato en Java
 
+        // Tipos de dato en Java
         // Tipo de datos Entero
-        
         /*
         para crear un comentario multiple se le realiza lo siguente con un asterisco en la parte de afuera y un slhas y para cerrar este comentario el asterisco en la parte de afuera el slhas 
-        */
+         */
         int variable1;
         int variable2 = 10;
         int valorInicial = 18;
@@ -46,13 +44,13 @@ public class Ejemplo03 {
         // tipo de dato boolean - boleano
         boolean variable9 = false;
         boolean variable10 = true;
-        
+
         boolean variable11 = false;
         // boolean variable11 = false; // incorrecto
         variable11 = false;
         variable11 = true;
         // variable11 = variable6;
-        
+
     }
 
 }

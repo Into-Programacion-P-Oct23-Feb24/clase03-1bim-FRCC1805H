@@ -21,18 +21,23 @@ public class Ejemplo06 {
         System.out.println(a); // true
         
         System.out.println("----------------");
+        boolean b = 10>11;
         System.out.println(10>=11); // false
         
         System.out.println("----------------");
+        boolean c = 10>12;
         System.out.println(10<=10); // true
         
         System.out.println("----------------");
+        boolean d = 10>13;
         System.out.println(10<2); // false
         
         System.out.println("----------------");
+        boolean e = 10>14
         System.out.println(10==10); // true
         
         System.out.println("----------------");
+        boolean f = 10>15;
         System.out.println(10!=2); // true 
     }                              // <> 
     
